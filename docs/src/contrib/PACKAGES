@@ -23,8 +23,8 @@ LinkingTo: Rcpp
 Suggests: knitr (>= 1.8), roxygen2 (>= 3.0.0), testthat (>= 2.1.0),
         pkgdown (>= 0.1.0), assertthat, rmarkdown
 License: AGPL-3
-MD5sum: 2c3dcde93bdc97dfedd009bee88c0f7a
-NeedsCompilation: yes
+MD5sum: 0806ff54e4da740c98b67b0f697b4e46
+NeedsCompilation: no
 
 Package: immunarch
 Version: 0.6.9
