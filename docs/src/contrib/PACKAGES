@@ -25,22 +25,3 @@ Suggests: knitr (>= 1.8), roxygen2 (>= 3.0.0), testthat (>= 2.1.0),
 License: AGPL-3
 MD5sum: 0806ff54e4da740c98b67b0f697b4e46
 NeedsCompilation: no
-
-Package: immunarch
-Version: 0.6.9
-Depends: R (>= 4.0.0), ggplot2 (>= 3.1.0), dplyr (>= 0.8.0), dtplyr (>=
-        1.0.0), data.table (>= 1.12.6), patchwork
-Imports: factoextra (>= 1.0.4), fpc, UpSetR (>= 1.4.0), pheatmap (>=
-        1.0.12), ggrepel (>= 0.8.0), reshape2 (>= 1.4.2), circlize,
-        MASS (>= 7.3), Rtsne (>= 0.15), readxl (>= 1.3.1), shiny (>=
-        1.4.0), shinythemes, airr, ggseqlogo, ggalluvial (>= 0.10.0),
-        Rcpp (>= 1.0), magrittr, methods, scales, ggpubr (>= 0.2),
-        rlang (>= 0.4), plyr, purrr, stringdist, jsonlite, readr,
-        stringr, tibble, tidyselect, tidyr, igraph, ape, doParallel,
-        rlist, utils, glue, phangorn, uuid, stringi
-LinkingTo: Rcpp
-Suggests: knitr (>= 1.8), roxygen2 (>= 3.0.0), testthat (>= 2.1.0),
-        pkgdown (>= 0.1.0), assertthat, rmarkdown
-License: AGPL-3
-MD5sum: a5fb0c2ce4f1bb80b1a756a3fa64bbbe
-NeedsCompilation: yes
